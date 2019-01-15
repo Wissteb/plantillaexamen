@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    position:relative;
+    background-color: blanchedalmond;
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+}
+.dezplazar{
+    background-color: blue;
+    position: absolute;
+left: 80%;
+    padding: 5%; 
+}
+div.contiene{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
